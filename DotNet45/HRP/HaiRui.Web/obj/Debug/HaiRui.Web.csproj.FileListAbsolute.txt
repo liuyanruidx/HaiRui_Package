@@ -1,0 +1,6 @@
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\bin\Debug\HaiRui.Web.dll
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\bin\Debug\HaiRui.Web.pdb
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\obj\Debug\HaiRui.Web.csprojResolveAssemblyReference.cache
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\obj\Debug\HaiRui.Web.csproj.CoreCompileInputs.cache
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\obj\Debug\HaiRui.Web.dll
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Web\obj\Debug\HaiRui.Web.pdb
