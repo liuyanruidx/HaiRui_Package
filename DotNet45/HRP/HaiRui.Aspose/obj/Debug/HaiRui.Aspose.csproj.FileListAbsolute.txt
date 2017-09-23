@@ -1,0 +1,5 @@
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Aspose\bin\Debug\HaiRui.Aspose.dll
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Aspose\bin\Debug\HaiRui.Aspose.pdb
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Aspose\obj\Debug\HaiRui.Aspose.csproj.CoreCompileInputs.cache
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Aspose\obj\Debug\HaiRui.Aspose.dll
+E:\Work\Personal\我的类库\程序\HaiRui_Package\DotNet45\HRP\HaiRui.Aspose\obj\Debug\HaiRui.Aspose.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.8
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiRui.File", "HaiRui.File\HaiRui.File.csproj", "{AB113BF5-EACF-4B87-91FA-C66BB645C2B6}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiRui.Web.Mvc", "HaiRui.Web.Mvc\HaiRui.Web.Mvc.csproj", "{C353E74E-AF66-4352-8D81-2F8D13C701DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiRui.Web", "HaiRui.Web\HaiRui.Web.csproj", "{80F45BFE-0A8D-4735-8FB8-FF2EF89FDA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiRui.Aspose", "HaiRui.Aspose\HaiRui.Aspose.csproj", "{052655B0-7B62-4E66-9BAE-D703469F49D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{80F45BFE-0A8D-4735-8FB8-FF2EF89FDA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F45BFE-0A8D-4735-8FB8-FF2EF89FDA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F45BFE-0A8D-4735-8FB8-FF2EF89FDA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052655B0-7B62-4E66-9BAE-D703469F49D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052655B0-7B62-4E66-9BAE-D703469F49D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052655B0-7B62-4E66-9BAE-D703469F49D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052655B0-7B62-4E66-9BAE-D703469F49D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
